@@ -30,3 +30,13 @@ next summit is for "Rocky"::
   +---------+-------+
   | Summits | 13    |
   +---------+-------+
+
+Can also be used for counting PTGs. For example::
+
+  $ openstack ptg count pike rocky
+
+  +-------+-------+
+  | Field | Value |
+  +-------+-------+
+  | PTGs  | 3     |
+  +-------+-------+
