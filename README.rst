@@ -18,10 +18,15 @@ Using
 
 ::
 
-  $ openstack summit count $first $current
+  $ openstack summit count $first [$current]
 
 For example, if your first summit was for the "Folsom" series and the
 next summit is for "Rocky"::
 
   $ openstack summit count folsom rocky
 
+  +---------+-------+
+  | Field   | Value |
+  +---------+-------+
+  | Summits | 13    |
+  +---------+-------+
