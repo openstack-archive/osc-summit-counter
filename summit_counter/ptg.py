@@ -17,6 +17,7 @@ _PTGS = [
     ('Pike', 'Atlanta'),
     ('Queens', 'Denver'),
     ('Rocky', 'Dublin'),
+    ('Stein', 'Denver'),
 ]
 
 
