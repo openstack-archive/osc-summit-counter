@@ -1,0 +1,8 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 17 Dec 2018 16:07:27 +0000
+Reviewed-on: https://review.openstack.org/625620
+Project: openstack/osc-summit-counter
+Branch: refs/heads/master
