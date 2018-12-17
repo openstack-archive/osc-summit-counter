@@ -41,6 +41,7 @@ _SUMMITS = [
     ('Queens', 'Sydney', 'https://www.openstack.org/summit/sydney-2017'),
     ('Rocky', 'Vancouver', 'https://www.openstack.org/summit/vancouver-2018'),
     ('Stein', 'Berlin', 'https://www.openstack.org/summit/berlin-2018'),
+    ('Train', 'Denver', 'https://www.openstack.org/summit/denver-2019')
 ]
 
 
